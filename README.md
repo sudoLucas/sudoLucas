@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
- 21 years old| Tech Enthusiast | Seeking for my first job opportunity in Tech
+ 21 years old| Tech Enthusiast | Data Entry at COMPUSISTEM SA
 </p>
 <p align="center">
-I use this profile to showcase my university projects and assignments as I seek my first opportunity in the tech industry. I am actively looking for an internship or junior-level position to gain real-world experience.
+I use this profile to showcase my university projects and assignments.
 </p>
 <p align="center">
 In my free time, I'm deepening my knowledge of Linux, training, and studying for my degree. Please feel free to reach out to me using the contact information below.
