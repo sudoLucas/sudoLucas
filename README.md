@@ -1,5 +1,5 @@
 <h2 align="center">
- hi, i'm Lucas | System Analysis Student at Da Vinci's College
+ hi, i'm Lucas | System Analysis Student at Da Vinci's College and also a Part-Time Data Entry worker 
 </h2>
 
 <h3 align="center">
